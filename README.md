@@ -3,7 +3,7 @@
 
 # About the project
 
-https://dsdelivery-professional.netlify.app/
+https://dsdelivery-professional.netlify.app
 
 DSDelivery is a full stack web and mobile application built during the 2ª edition of **Semana DevSuperior** (#sds2), event organized by [DevSuperior](https://devsuperior.com.br/cursos "DevSuperior Website").
 
