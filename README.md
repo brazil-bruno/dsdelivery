@@ -5,7 +5,7 @@
 
 https://dsdelivery-professional.netlify.app
 
-DSDelivery is a full stack web and mobile application built during the 2ª edition of **DevSuperior Week** (#sds2), event organized by [DevSuperior](https://devsuperior.com.br/cursos "DevSuperior Website").
+DSDelivery is a Full Stack Java web and mobile application built during the 2ª edition of **DevSuperior Week** (#sds2), event organized by [DevSuperior](https://devsuperior.com.br/cursos "DevSuperior Website").
 
 The application consists of a menu and it is possible to place orders for each of the items listed and then add the address where the orders should be delivered, after placing the order, the data is collected and sent to the mobile app. The mobile app is responsible for listing all pending orders so that the delivery person can deliver each one. After delivery, the delivery person closes the order which is automatically removed from the order list.
 
